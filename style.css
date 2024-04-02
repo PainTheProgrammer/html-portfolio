@@ -1,0 +1,29 @@
+h1 {
+    color: #9E6F59;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.linkstyle {
+    color: black;
+    font-family: sans-serif;
+}
+
+#mainmenu {
+    text-align: center;
+}
+
+h2 {
+    color: #9E6F59;
+}
+
+body {
+    background-color: #FAD7C7;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
